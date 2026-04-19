@@ -1,0 +1,9 @@
+Command: cmake -G Ninja -B C:\Users\to_the_moon\Desktop\esp-project\trial\build -DPYTHON_DEPS_CHECKED=1 -DPYTHON=C:\Espressif\tools\python\v6.0\venv\Scripts\python.exe -DESP_PLATFORM=1 -DSDKCONFIG='c:\Users\to_the_moon\Desktop\esp-project\trial\sdkconfig' -DCCACHE_ENABLE=False C:\Users\to_the_moon\Desktop\esp-project\trial
+Configuration Report               
++---------------------------------+
+|  Parser Version: 1              |
+|  Verbosity: default             |
+|  Defaults policy: sdkconfig     |
+|  Status: Finished successfully  |
+|                                 |
++---------------------------------+
